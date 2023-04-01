@@ -1,5 +1,8 @@
 @echo off
-echo for checking if there is a virus
-echo pick avg secure browser
-start  www.antivirussoftwareguide.com
+echo download avg secure browser
+echo your ip
+ipconfig
+echo dont forget
+ipconfig
+ipconfig
 pause
