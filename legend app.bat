@@ -1,4 +1,4 @@
 @echo off
-ipconfig
-netsh wlan export profile folder=c:\ key=clear
+echo for checking if there is a virus
+netstat /nbf
 pause
